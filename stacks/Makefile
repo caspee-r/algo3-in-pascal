@@ -13,4 +13,4 @@ testarr: stackarr
 testll: stackll
 	fpc testll.pas
 clean:
-	 rm -f stackdsa.o  stackdsa.ppu  testarr.o  testarr  testll
+	 rm -f stackdsa.o  stackdsa.ppu  testarr.o  testarr testll.o testll
